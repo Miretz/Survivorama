@@ -1,5 +1,5 @@
-# ruby-game
-Survivorama - Work in progress
+# Survivorama
+Survival Game made in Ruby - Work in progress
 
 #Screenshot:
 <img src="screen.gif" />
